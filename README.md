@@ -1,3 +1,10 @@
-# <span style="color:orange;">M_M</span>
+___  ___      ___  ___  
+|  \/  |      |  \/  |  
+| .  . |      | .  . |  
+| |\/| |      | |\/| |  
+| |  | |      | |  | |  
+\_|  |_/      \_|  |_/
+       ________      
+      |________|
 
 <span style="color:orange;">Einfach ein Schulprojekt, Subnetzrechner mit GUI</span>
